@@ -2,9 +2,7 @@
 Binary and Multinomial Classification through Evolutionary Symbolic Regression
 
 Code accompanying the paper:
-Moshe Sipper. 2022. Binary and Multinomial Classification through Evolutionary Symbolic Regression. In Genetic and Evolutionary Computation Conference 2022, July 9–13, 2022, Boston. ACM, New York, NY, USA.
-
-Papers are available through [Moshe Sipper's website](http://www.moshesipper.com/).
+[Moshe Sipper. 2022. Binary and Multinomial Classification through Evolutionary Symbolic Regression. In Genetic and Evolutionary Computation Conference 2022, July 9–13, 2022, Boston. ACM, New York, NY, USA](https://drive.google.com/file/d/1SC02WH064mCaZuh2RsLyEH6e_uXYdc2p/view).
 
 You'll need [gplearn](https://gplearn.readthedocs.io/en/stable/) and [cartesian](https://github.com/Ohjeah/cartesian).
 
