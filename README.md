@@ -6,7 +6,9 @@ Code accompanying the paper:
 
 You'll need [gplearn](https://gplearn.readthedocs.io/en/stable/) and [cartesian](https://github.com/Ohjeah/cartesian).
 
-If you wish to cite this paper:
+### Citation
+
+Citations are always appreciated 😊:
 ```
 @inproceedings{sipper2022esr,
   title={Binary and Multinomial Classification through Evolutionary Symbolic Regression},
